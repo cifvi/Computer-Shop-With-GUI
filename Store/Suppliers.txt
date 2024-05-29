@@ -1,0 +1,10 @@
+Supplier ID:1, Supplier name:Nvidia, Warranty:2, Contact number:03-4359309
+Supplier ID:2, Supplier name:AMD, Warranty:3, Contact number:03-1234567
+Supplier ID:3, Supplier name:Intel, Warranty:5, Contact number:06-3345678
+Supplier ID:4, Supplier name:Corsair, Warranty:10, Contact number:03-2234567
+Supplier ID:5, Supplier name:Dell, Warranty:7, Contact number:03-1111112
+Supplier ID:6, Supplier name:Asus, Warranty:8, Contact number:09-1131112
+Supplier ID:7, Supplier name:HP, Warranty:4, Contact number:04-1121112
+Supplier ID:8, Supplier name:Toshiba, Warranty:2, Contact number:03-1111112
+Supplier ID:9, Supplier name:Samsung, Warranty:9, Contact number:03-1154112
+Supplier ID:10, Supplier name:Gigabyte, Warranty:9, Contact number:03-1154912

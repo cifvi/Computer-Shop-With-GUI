@@ -1,0 +1,9 @@
+Component ID:1, Description:GeForce RTX 4070, Price:3500.0, Warranty:2, Supplier ID:1
+Component ID:2, Description:Core™ i9-13900K Processor, Price:2175.5, Warranty:5, Supplier ID:3
+Component ID:3, Description:RM750x 750W (Modular PSU), Price:600.7, Warranty:10, Supplier ID:4
+Component ID:4, Description:GeForce RTX 4080, Price:4000.0, Warranty:2, Supplier ID:1
+Component ID:5, Description:GeForce RTX 4090, Price:6500.0, Warranty:2, Supplier ID:1
+Component ID:6, Description:Core™ i7-10700KF Processor, Price:1200.0, Warranty:5, Supplier ID:3
+Component ID:7, Description:970 EVO NVMe M.2 SSD 500GB, Price:400.0, Warranty:9, Supplier ID:9
+Component ID:8, Description:Gigabyte Z790 Aorus Xtreme, Price:1500.0, Warranty:9, Supplier ID:10
+Component ID:9, Description:Gigabyte Z690I Aorus Ultra Plus, Price:20000.0, Warranty:9, Supplier ID:10

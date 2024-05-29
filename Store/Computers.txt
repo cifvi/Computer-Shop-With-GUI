@@ -1,0 +1,3 @@
+Computer ID:1, Computer name:Alienware, Price:6000.0, Discount:0.0, Stock:5, 1:GeForce RTX 4070, 2:Core™ i9-13900K Processor, 3:RM750x 750W (Modular PSU)
+Computer ID:2, Computer name:Omen, Price:5000.0, Discount:100.0, Stock:10, 4:GeForce RTX 4080, 6:Core™ i7-10700KF Processor, 8:Gigabyte Z790 Aorus Xtreme
+Computer ID:3, Computer name:Origin PC, Price:8000.0, Discount:5.0, Stock:7, 2:Core™ i9-13900K Processor, 3:RM750x 750W (Modular PSU), 5:GeForce RTX 4090, 9:Gigabyte Z690I Aorus Ultra Plus
